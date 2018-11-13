@@ -1,0 +1,4 @@
+customer_id,operation,amount
+1,BUY,100.00
+2,BUY,200.00
+1,SELL,50.00
